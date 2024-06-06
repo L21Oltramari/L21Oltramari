@@ -16,7 +16,10 @@
   <img align="center" alt="Leo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
 </div>
   
-  ##
+## 🧮 Github Stats
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=L21Oltramari&show_icons=true"/>
+<img alt="my top langs" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=L21Oltramari&layout=compact"/>
+
  
 <div> 
   <a href = "mailto:oltramari515@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
